@@ -1,0 +1,10 @@
+id = "vb"
+name = "Visual Basic"
+version = "0.0.1"
+schema_version = 1
+authors = ["User"]
+repository = "https://github.com/luxon-45/vb-zed-extension"
+
+[grammars.vb_dotnet]
+repository = "https://github.com/luxon-45/tree-sitter-vb-dotnet"
+rev = "baf9650e1d62fd1c1ae9cf4d6158cb817e3f7197"
